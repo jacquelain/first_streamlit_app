@@ -1,6 +1,6 @@
 import streamlit
-#mport pandas 
-# import requests
+#import pandas 
+#import requests
 
 
 streamlit.title('My Mom\'s New Healthy Diner')
@@ -28,7 +28,8 @@ streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 #treamlit.dataframe(fruits_to_show)
 
 
-
+import pandas 
+import requests
 import snowflake.connector
 from urllib.error import URLError
 
